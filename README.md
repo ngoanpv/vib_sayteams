@@ -4,7 +4,7 @@ Track 1: Datarathon
 
 VIB wants to come up with an innovation for making use of their existing data to improve the mobile banking customer experience. VIB is excited about the out-of-the-box ideas that can determine factors that make our customers leaving the MyVIB mobile application.
  
-## Round 1: (Use Python or R):
+## Round 1:
 Provide a Word/PDF document in which clearly demonstrates:
 
 Definition of customers who leave MyVIB application based on given dataset.
