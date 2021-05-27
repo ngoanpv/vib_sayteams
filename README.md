@@ -25,7 +25,8 @@ Download data here
 
 ### Evaluation matrix:
 
-A comprehensive documentation which expresses your data mining process in detail, including the algorithm you employ.
-An informative visualization which can be deliverable to persons who are not expertised in data science.
-Criteria: determine factors and quantify their effect, depending the model and functionality you use. For example, if you use classification algorithms, we will base on Accuracy and Recall ratios. If you use regression algorithms, we will check the model prediction performance.
+- A comprehensive documentation which expresses your data mining process in detail, including the algorithm you employ.
+- An informative visualization which can be deliverable to persons who are not expertised in data science.
+- Criteria: determine factors and quantify their effect, depending the model and functionality you use. For example, if you use classification algorithms, we will base on Accuracy and Recall ratios. If you use regression algorithms, we will check the model prediction performance.
+
 We will rank in the descending order the models based on their appliability, interpretability, and performance.
